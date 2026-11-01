@@ -1,0 +1,6 @@
+# Original downloads and expanded databases are transient.
+data/local/
+__pycache__/
+*.pyc
+*.partial
+.DS_Store
