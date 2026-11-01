@@ -1,0 +1,144 @@
+{
+  "source_repository": "yuhevita-wq/keirin-market-analysis-",
+  "source_ref": "de98c18d059790a58043000db259671dcbd8e4de",
+  "verified_on": "2026-11-01",
+  "description": "F1 only: S-class all races and A1/A2 races. Source paths are original folders, not all_classes mirrors.",
+  "sources": [
+    {
+      "id": "S-2025-q1",
+      "year": 2025,
+      "class": "S",
+      "start_date": "2025-01-01",
+      "end_date": "2025-03-31",
+      "path": "data/2025/s_class_f1_all_parts/2025_q1"
+    },
+    {
+      "id": "S-2025-q2",
+      "year": 2025,
+      "class": "S",
+      "start_date": "2025-04-01",
+      "end_date": "2025-06-30",
+      "path": "data/2025/s_class_f1_all_parts/2025_q2"
+    },
+    {
+      "id": "S-2025-q3",
+      "year": 2025,
+      "class": "S",
+      "start_date": "2025-07-01",
+      "end_date": "2025-09-30",
+      "path": "data/2025/s_class_f1_all_parts/2025_q3"
+    },
+    {
+      "id": "S-2025-q4",
+      "year": 2025,
+      "class": "S",
+      "start_date": "2025-10-01",
+      "end_date": "2025-12-31",
+      "path": "data/2025/s_class_f1_all_parts/2025_q4"
+    },
+    {
+      "id": "S-2026-h1",
+      "year": 2026,
+      "class": "S",
+      "start_date": "2026-01-01",
+      "end_date": "2026-06-30",
+      "path": "data/2026_h1/s_class_f1_all"
+    },
+    {
+      "id": "S-2026-summer",
+      "year": 2026,
+      "class": "S",
+      "start_date": "2026-07-01",
+      "end_date": "2026-08-30",
+      "path": "data/2026_future_block1/s_class_f1_20260701_20260830"
+    },
+    {
+      "id": "A-2025_01_02",
+      "year": 2025,
+      "class": "A",
+      "start_date": "2025-01-01",
+      "end_date": "2025-02-28",
+      "path": "data/a_class_12/2025_01_02"
+    },
+    {
+      "id": "A-2025_03_04",
+      "year": 2025,
+      "class": "A",
+      "start_date": "2025-03-01",
+      "end_date": "2025-04-30",
+      "path": "data/a_class_12/2025_03_04"
+    },
+    {
+      "id": "A-2025_05_06",
+      "year": 2025,
+      "class": "A",
+      "start_date": "2025-05-01",
+      "end_date": "2025-06-30",
+      "path": "data/a_class_12/2025_05_06"
+    },
+    {
+      "id": "A-2025_07_08",
+      "year": 2025,
+      "class": "A",
+      "start_date": "2025-07-01",
+      "end_date": "2025-08-31",
+      "path": "data/a_class_12/2025_07_08"
+    },
+    {
+      "id": "A-2025_09_10",
+      "year": 2025,
+      "class": "A",
+      "start_date": "2025-09-01",
+      "end_date": "2025-10-31",
+      "path": "data/a_class_12/2025_09_10"
+    },
+    {
+      "id": "A-2025_11_12",
+      "year": 2025,
+      "class": "A",
+      "start_date": "2025-11-01",
+      "end_date": "2025-12-31",
+      "path": "data/a_class_12/2025_11_12"
+    },
+    {
+      "id": "A-2026_01_02",
+      "year": 2026,
+      "class": "A",
+      "start_date": "2026-01-01",
+      "end_date": "2026-02-28",
+      "path": "data/a_class_12/2026_01_02"
+    },
+    {
+      "id": "A-2026_03_04",
+      "year": 2026,
+      "class": "A",
+      "start_date": "2026-03-01",
+      "end_date": "2026-04-30",
+      "path": "data/a_class_12/2026_03_04"
+    },
+    {
+      "id": "A-2026_05_06",
+      "year": 2026,
+      "class": "A",
+      "start_date": "2026-05-01",
+      "end_date": "2026-06-30",
+      "path": "data/a_class_12/2026_05_06"
+    },
+    {
+      "id": "A-2026_07_08",
+      "year": 2026,
+      "class": "A",
+      "start_date": "2026-07-01",
+      "end_date": "2026-08-31",
+      "path": "data/a_class_12/2026_07_08"
+    },
+    {
+      "id": "A-2026_09_1002",
+      "year": 2026,
+      "class": "A",
+      "start_date": "2026-09-01",
+      "end_date": "2026-10-02",
+      "path": "data/a_class_12/2026_09_1002"
+    }
+  ]
+}
