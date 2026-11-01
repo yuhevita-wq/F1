@@ -1,0 +1,300 @@
+{
+  "year": 2026,
+  "source_repository": "yuhevita-wq/keirin-market-analysis-",
+  "source_ref": "de98c18d059790a58043000db259671dcbd8e4de",
+  "source_files": [
+    {
+      "path": "data/2026_h1/s_class_f1_all/races.csv",
+      "bytes": 675513,
+      "sha256": "cdd001ce8f701f4b305c42b465d538c708abd52cf579645a0037d80e00e218cb"
+    },
+    {
+      "path": "data/2026_h1/s_class_f1_all/entries.csv",
+      "bytes": 11104397,
+      "sha256": "9dce89212600aa4481b41990c3db2c3e1e2cdc8c539142b538aac75c77668740"
+    },
+    {
+      "path": "data/2026_h1/s_class_f1_all/results.csv",
+      "bytes": 7304639,
+      "sha256": "f356b3d59eb0d8bd34d20729e13bf42f451a5a3d6e256fb24f0945286ff91f84"
+    },
+    {
+      "path": "data/2026_h1/s_class_f1_all/payouts.csv",
+      "bytes": 6697523,
+      "sha256": "18e0870fe54179ed9cb90b6f9cc6d6669ee8326f09f939e09468c0bd5cb24a3e"
+    },
+    {
+      "path": "data/2026_future_block1/s_class_f1_20260701_20260830/races.csv",
+      "bytes": 236258,
+      "sha256": "4fdfef1ec0904f886cde208c081f01674d1ee857b34db7d169105a83ac526dd3"
+    },
+    {
+      "path": "data/2026_future_block1/s_class_f1_20260701_20260830/entries.csv",
+      "bytes": 3895994,
+      "sha256": "1afa67fc8be4488c396b88d949a588744bf26ca379e9e550045a88c7f4c053fc"
+    },
+    {
+      "path": "data/2026_future_block1/s_class_f1_20260701_20260830/results.csv",
+      "bytes": 2552277,
+      "sha256": "107ea790cef719502cd88ad0bf7181ddee13e28747cc6f03a4abb137c414343a"
+    },
+    {
+      "path": "data/2026_future_block1/s_class_f1_20260701_20260830/payouts.csv",
+      "bytes": 2352902,
+      "sha256": "2c7eae70027a8621ca548a36c4d51ca00bc7e858abfd1fb59f21a81893d50c6b"
+    },
+    {
+      "path": "data/a_class_12/2026_01_02/races.csv",
+      "bytes": 504213,
+      "sha256": "330b1be22f688a9eac2ac8b63cd8aff75bdc965ca60ab4673fdd83ce5d99bb86"
+    },
+    {
+      "path": "data/a_class_12/2026_01_02/entries.csv",
+      "bytes": 8255072,
+      "sha256": "275e05c5e5fb46ac395f3b32df284945e49b3e22a187603f17aa4b00532c0e31"
+    },
+    {
+      "path": "data/a_class_12/2026_01_02/results.csv",
+      "bytes": 5346720,
+      "sha256": "4b5c665210a489b14fc69c3e61d2dae0738ba190962ef8742e4dcbb081fc1731"
+    },
+    {
+      "path": "data/a_class_12/2026_01_02/payouts.csv",
+      "bytes": 4909297,
+      "sha256": "7dc6bc17fa481dfcc89e7cedf6129c8b9c64a60afb1ba3b408f64424de651bc1"
+    },
+    {
+      "path": "data/a_class_12/2026_03_04/races.csv",
+      "bytes": 500396,
+      "sha256": "1dcf00afff39e613f7215cf59c3e744d1b345b0e8c0e42727e0e6a26d1bf4231"
+    },
+    {
+      "path": "data/a_class_12/2026_03_04/entries.csv",
+      "bytes": 8203545,
+      "sha256": "214d2c4ceff400412905d831b0b90b23fd1ae3ab2641ed23cdad73384aaf38e2"
+    },
+    {
+      "path": "data/a_class_12/2026_03_04/results.csv",
+      "bytes": 5316291,
+      "sha256": "b1d1e32f39d9b21c3027895ba9e639c8d19a8e1ff59a27b01c0d8123075cc903"
+    },
+    {
+      "path": "data/a_class_12/2026_03_04/payouts.csv",
+      "bytes": 4882740,
+      "sha256": "ff25e6a24087db8b3bfd0e41288270c243799e96530097823f527ee93557748e"
+    },
+    {
+      "path": "data/a_class_12/2026_05_06/races.csv",
+      "bytes": 490344,
+      "sha256": "ccf0209ffd286e376387b28d46cd7b24f3d04d2ef2a860242c97d5d74bf06d1e"
+    },
+    {
+      "path": "data/a_class_12/2026_05_06/entries.csv",
+      "bytes": 8041660,
+      "sha256": "535b4d846c00c59fd4e689613f1afb7d0e857de910d3b4f2758da4cff85ea20b"
+    },
+    {
+      "path": "data/a_class_12/2026_05_06/results.csv",
+      "bytes": 5194728,
+      "sha256": "165f791e5ffddff5db2ce1878ccbad10cba425c69b00eb51cec3d68a2123ba3d"
+    },
+    {
+      "path": "data/a_class_12/2026_05_06/payouts.csv",
+      "bytes": 4785606,
+      "sha256": "9ff3df1ca3dd565f04a1764610403ef19885c902b11a822b372f55abac0cd341"
+    },
+    {
+      "path": "data/a_class_12/2026_07_08/races.csv",
+      "bytes": 529718,
+      "sha256": "f6e3d4dac6ffd5e6eeeb1def5849546e0bbf230d0822283480adcd4f1433385e"
+    },
+    {
+      "path": "data/a_class_12/2026_07_08/entries.csv",
+      "bytes": 8691214,
+      "sha256": "9ff163cacc6343bde915c5ee3459910520296f2cdf5895b7022d096692173e09"
+    },
+    {
+      "path": "data/a_class_12/2026_07_08/results.csv",
+      "bytes": 5615827,
+      "sha256": "9879834e9745b8dd23f8a342712e756c507086c900628fe59c670389e3c3216e"
+    },
+    {
+      "path": "data/a_class_12/2026_07_08/payouts.csv",
+      "bytes": 5175659,
+      "sha256": "6e0f4ff7f1f291f98fbcadb199b1042b90d33d25af7c6a4a86d8ff22f6d4cb48"
+    },
+    {
+      "path": "data/a_class_12/2026_09_1002/races.csv",
+      "bytes": 267109,
+      "sha256": "fcce6080e07ce42ae9a51805e3a06639084b85ddea7e64b9c110ddfc41d18409"
+    },
+    {
+      "path": "data/a_class_12/2026_09_1002/entries.csv",
+      "bytes": 4387679,
+      "sha256": "3dab3da72dfd0ebb909f50e0b60629e008a82d987fc71bd715354631a53a2c62"
+    },
+    {
+      "path": "data/a_class_12/2026_09_1002/results.csv",
+      "bytes": 2838107,
+      "sha256": "cc23ec81b898815aafcdd17e77a37d1046b44a46b2e3e55bd887328fc3e8ebc7"
+    },
+    {
+      "path": "data/a_class_12/2026_09_1002/payouts.csv",
+      "bytes": 2611818,
+      "sha256": "57269c93b1717c193a1c1e4f3aa5448541509a838f3935ab9d9a890b633772dc"
+    }
+  ],
+  "periods": {
+    "S-2026-h1": {
+      "races": {
+        "selected_rows": 2562,
+        "excluded_rows": 0
+      },
+      "entries": {
+        "selected_rows": 17708,
+        "excluded_rows": 0
+      },
+      "results": {
+        "selected_rows": 17708,
+        "excluded_rows": 0
+      },
+      "payouts": {
+        "selected_rows": 23126,
+        "excluded_rows": 0
+      }
+    },
+    "S-2026-summer": {
+      "races": {
+        "selected_rows": 901,
+        "excluded_rows": 0
+      },
+      "entries": {
+        "selected_rows": 6225,
+        "excluded_rows": 0
+      },
+      "results": {
+        "selected_rows": 6225,
+        "excluded_rows": 0
+      },
+      "payouts": {
+        "selected_rows": 8135,
+        "excluded_rows": 0
+      }
+    },
+    "A-2026_01_02": {
+      "races": {
+        "selected_rows": 675,
+        "excluded_rows": 1204
+      },
+      "entries": {
+        "selected_rows": 4714,
+        "excluded_rows": 8393
+      },
+      "results": {
+        "selected_rows": 4707,
+        "excluded_rows": 8393
+      },
+      "payouts": {
+        "selected_rows": 6077,
+        "excluded_rows": 10862
+      }
+    },
+    "A-2026_03_04": {
+      "races": {
+        "selected_rows": 675,
+        "excluded_rows": 1192
+      },
+      "entries": {
+        "selected_rows": 4713,
+        "excluded_rows": 8319
+      },
+      "results": {
+        "selected_rows": 4713,
+        "excluded_rows": 8319
+      },
+      "payouts": {
+        "selected_rows": 6096,
+        "excluded_rows": 10749
+      }
+    },
+    "A-2026_05_06": {
+      "races": {
+        "selected_rows": 634,
+        "excluded_rows": 1200
+      },
+      "entries": {
+        "selected_rows": 4421,
+        "excluded_rows": 8370
+      },
+      "results": {
+        "selected_rows": 4421,
+        "excluded_rows": 8370
+      },
+      "payouts": {
+        "selected_rows": 5715,
+        "excluded_rows": 10822
+      }
+    },
+    "A-2026_07_08": {
+      "races": {
+        "selected_rows": 715,
+        "excluded_rows": 1265
+      },
+      "entries": {
+        "selected_rows": 4993,
+        "excluded_rows": 8822
+      },
+      "results": {
+        "selected_rows": 4993,
+        "excluded_rows": 8822
+      },
+      "payouts": {
+        "selected_rows": 6449,
+        "excluded_rows": 11413
+      }
+    },
+    "A-2026_09_1002": {
+      "races": {
+        "selected_rows": 359,
+        "excluded_rows": 640
+      },
+      "entries": {
+        "selected_rows": 2512,
+        "excluded_rows": 4465
+      },
+      "results": {
+        "selected_rows": 2512,
+        "excluded_rows": 4465
+      },
+      "payouts": {
+        "selected_rows": 3245,
+        "excluded_rows": 5771
+      }
+    }
+  },
+  "filter": "meeting_grade == F1, S級* or A級* with class_scope A1/A2",
+  "coverage_warning": "Source periods are not proof of nationwide completeness.",
+  "post_race_warning": "Results/payouts are known only after the race.",
+  "integrity": {
+    "row_counts": {
+      "races": 6521,
+      "entries": 45286,
+      "results": 45279,
+      "payouts": 58843
+    },
+    "by_class": {
+      "A": 3058,
+      "S": 3463
+    },
+    "races_missing": {
+      "entries": 0,
+      "results": 1,
+      "payouts": 1
+    }
+  },
+  "database": {
+    "path": "data/ready/f1_2026.sqlite.gz",
+    "gz_bytes": 9948357,
+    "sqlite_bytes": 83914752
+  }
+}
